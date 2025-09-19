@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m currently building automation tools in Python and working on data migration and modernization projects. My focus is on streamlining workflows through automation, full-stack integration, and efficient data handling. I’m also exploring deep learning techniques such as GANs and Transformers, while strengthening my data engineering skills. 
-Additionally, I enjoy learning languages and speak fluent Japanese.
+Additionally, I enjoy learning languages and speak fluent Japanese. 英語でも日本語でもOKです
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-lohar-375b9a357/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@pixzeyl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranav.mlohar@gmail.com) 
