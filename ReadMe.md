@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently building automation tools in Python and working on data migration and modernization projects. My focus is on streamlining workflows through automation, full-stack integration, and efficient data handling. I’m also exploring deep learning techniques such as GANs and Transformers, while strengthening my data engineering skills. 
+I’m currently building automation tools in Python and working on data migration and modernization projects. My focus is on streamlining workflows through automation, full-stack integration, and efficient data handling. I’m also exploring deep learning techniques such as GANs and Transformers, while strengthening my data engineering skills.   
 Additionally, I enjoy learning languages and speak fluent Japanese. 英語でも日本語でもOKです。
 
 ## 🌐 Socials:
